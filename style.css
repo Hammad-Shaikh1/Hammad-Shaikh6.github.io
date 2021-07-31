@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+fieldset{
+    text-align: justify;
+    border-radius: 2em;
+    border: solid black ;
+}
